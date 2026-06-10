@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Host: good-master.pro
-Sitemap: https://good-master.pro/sitemap.xml
